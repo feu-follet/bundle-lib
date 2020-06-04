@@ -12,7 +12,7 @@ var bundle_fr = ["[orange]bundles librairie", "Une librairie permettant de tradu
 keep this list "bundles",for each bundle list defined previously add the list name + list name as a string*/
 var bundles = [bundle_fr,"bundle_fr"]
 
-//Let the magic proceed !
+//Let the magic happen !
   if (bundles.includes(locale)){
     var current = bundles.indexOf(locale)-1;
     var currentBundle = bundles[current];

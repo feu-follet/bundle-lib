@@ -1,0 +1,7 @@
+{
+  "name": "bundle-lib",
+  "displayName": "[orange] Bundle lib",
+  "author": "senri",
+  "description": "A library that allows you to change mod name and description in terms of language",
+  "version": 1
+}

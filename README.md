@@ -6,6 +6,6 @@ You can try it by setting game language to english first and then french(the onl
 # How to use
 Copy the "bundle-lib.js" file and paste it in the "scripts" folder of your mod (don't forget to change main.js if you're using one.)
 
-Then you must change some things, follow the instructions in code comments !
+Then you must a few things, follow the instructions in code comments !
 
 Enjoy !

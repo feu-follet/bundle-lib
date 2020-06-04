@@ -13,9 +13,5 @@ keep this list "bundles",for each bundle list defined previously add the list na
 var bundles = [bundle_fr,"bundle_fr"]
 
 //Let the magic happen !
-  if (bundles.includes(locale)){
-    var current = bundles.indexOf(locale)-1;
-    var currentBundle = bundles[current];
-    mod.meta.displayName = currentBundle[0];
-    mod.meta.description = currentBundle[1];
-  }
+locale)){
+

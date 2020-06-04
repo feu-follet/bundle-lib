@@ -10,4 +10,4 @@ Copy the "bundle-lib.js" file and paste it in the "scripts" folder of your mod (
 
 Then you must a few things, follow the instructions in code comments !
 
-Credit me if you want, and enjoy !
+Feel free to credit me, and enjoy !
